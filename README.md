@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome to my profile
 
-<!--
-**murilomorano3/murilomorano3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Murilo Batista de Lima Morano
 
-Here are some ideas to get you started:
+- I am currently studying in IEPPEP;
+- Usually, I use HTML and CSS to do my projects;
+- I use this space to organize and share my developed projects
 
-- 🔭 I’m currently working on IEPPEP
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: ...
--->
+### You can contact me:
+
+moranomurilo@gmail.com
+
+@021_moranomurilo
